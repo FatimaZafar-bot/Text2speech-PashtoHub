@@ -25,4 +25,5 @@ It is designed to bridge the gap for low-resource languages by experimenting wit
      - Audio files normalized & converted to .wav
      - Tokenizer built for Pashto script
      - Model fine-tuned for ~N epochs on dataset
-- Output: Pashto transcription for unseen audio
+- Output:
+     - Pashto transcription for unseen audio
